@@ -124,7 +124,7 @@ with row1_2:
     st.write(
         """
     ##
-    Discovering incidents across different timeframes in San Francisco has never been more intuitive. /n Use the slider on the left to navigate through specific time intervals, offering you a comprehensive view of patterns and evolving trends in reported events.
+    Discovering incidents across different timeframes in San Francisco has never been more intuitive. Use the slider on the left to navigate through specific time intervals, offering you a comprehensive view of patterns and evolving trends in reported events.
     """
     )
 
